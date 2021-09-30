@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    
+    background-color: rgb(130, 73, 184);
+    font-family: creepster;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+main {
+    border: 8px solid black;
+    border-radius: 75px;
+    border-top: 5px;
+    padding: 36px;
+
+
+}
+
+h3:hover {
+    cursor: pointer;
+    border: 7px solid rgb(114, 34, 50);
+    border-radius: 100px;
+    border-top: 1px solid rgb(94, 31, 24);
+    background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #700f0f, #530b5a, #2d093b, #000000);
+    color: rgb(134, 134, 134);
+    box-shadow: 0 10px 20px rgba(192, 142, 48, 0.4);
+}
+
+
+
+
+
